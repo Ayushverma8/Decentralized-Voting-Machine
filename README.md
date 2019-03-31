@@ -27,7 +27,7 @@ Step 8 - That’s it! <br>
 You can now open the “main.html” file in chrome<br>
 It seems like a lot of work, but worth it ;)<br>
 
-![alt text](https://raw.githubusercontent.com/Ayushverma8/Decentralized-Voting-Machine/master/Screenshot_20180128-232224.png)
+![alt text](https://raw.githubusercontent.com/Ayushverma8/Decentralized-Voting-Machine/master/Screenshot_20180128-232224%20(1).png)
 
 ![alt text](https://github.com/warmachine0609/Decentralized-Voting-Machine/blob/master/Screenshot.png)
 !
